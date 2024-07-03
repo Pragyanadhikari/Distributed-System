@@ -1,0 +1,10 @@
+                CLOCK
+
+1.Physical              2.Logical;
+    |                       |
+    v                       v
+ i.Cristian              i. Lamport's:brought Logical time stamp
+ ii. Berkley
+ iii.NTP
+Problem:
+. Always need to synchronize physically   
